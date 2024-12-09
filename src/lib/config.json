@@ -1,0 +1,6 @@
+{
+	"secret": ["secretText1", "secretText2"],
+	"otptime": 15,
+	"secretpass": false,
+	"dbs": ["mysql://user:pass@tcp(10.0.0.1):3306/db"]
+}
